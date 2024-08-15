@@ -1,4 +1,3 @@
-##  Hey Data Nerds :sunglasses:
 ## Welcome to My GitHub!
 
 👋 Hello ! I'm Varma KVM, a dedicated Data Enthusiast in transforming data into actionable insights.
