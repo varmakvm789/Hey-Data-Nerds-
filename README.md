@@ -20,7 +20,7 @@
 
 ### Get in Touch
 
-- 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/varmakvm/)
+- 💬 Connect with me on LinkedIn: [VARMA KVM](https://www.linkedin.com/in/varmakvm/)
 - 📧 For inquiries, drop me an email at varmakvm789@gmail.com
 
 Feel free to explore my projects, provide feedback, and collaborate. Let's make data work for us! 🚀
